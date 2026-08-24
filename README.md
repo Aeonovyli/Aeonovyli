@@ -24,8 +24,6 @@ I am a 3D modeler, who works best in [blender](https://www.blender.org) (That's 
 
 If you'd like to request models or comment on other things, start an issue for the repository TheSilverStone. I'll probably answer you in two days if not sooner. (One is a closer guess.)
 
-![GitHubCard](https://githubcard.com/TheSilverStone.svg?d=_DqiVxKI)
-
 Religion is a hard one. Simply, to Man, religion is why the universe is what it is——the truth to hinself. But there is only one [Truth and Life and Spirit](http://jesusislord.com). These extracts from the rightfully most famous Book of all time explain the core——slightly.
 
 "In the morning, Lord, you hear my voice; in the morning I lay my requests before You and wait expectantly. For You are not a God who is pleased with wickedness; with you, evil people are not welcome. The arrogant cannot stand in your presence. You hate all who do wrong; you destroy those who tell lies. The bloodthirsty and deceitful you, Lord, detest. But I, by your great love, can come into your house; in reverence I bow down toward your holy temple.
